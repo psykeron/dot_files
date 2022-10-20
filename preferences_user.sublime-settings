@@ -1,0 +1,15 @@
+{
+    "font_size": 14,
+    "ignored_packages":
+    [
+        "python-black",
+        "Vintage",
+    ],
+    "theme": "auto",
+    "color_scheme": "Monokai.sublime-color-scheme",
+    "open_files_in_new_window": "always",
+    "translate_tabs_to_spaces": true,
+    "tab_size": 2,
+    "show_rel_path": true,
+    "show_full_path": false,
+}

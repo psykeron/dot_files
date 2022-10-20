@@ -1,0 +1,30 @@
+{
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "AutoPEP8",
+    "DiffTabs",
+    "DiffView",
+    "Git",
+    "Indent XML",
+    "JSON Reindent",
+    "JsPrettier",
+    "MarkdownPreview",
+    "Naomi",
+    "Package Control",
+    "Pretty JSON",
+    "python-black",
+    "RemoveDuplicateLines",
+    "SnippetMaker",
+    "SortBy",
+    "SublimeLinter",
+    "SublimeLinter-contrib-yamllint",
+    "Terminus",
+    "Terrafmt",
+    "Terraform",
+    "TypeScript Syntax",
+  ],
+}
