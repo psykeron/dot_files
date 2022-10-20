@@ -1,8 +1,8 @@
 # required setup
 
 [user]
-    name =  George Mathews
-    email = geomatthews@gmail.com
+  name =  George Mathews
+  email = geomatthews@gmail.com
 
 [url "git@github.com:"]
   insteadOf = https://github.com/
@@ -13,24 +13,24 @@
 # look and feel
 
 [color]
-    ui = true
+  ui = true
 
 [color "branch"]
-    current = yellow reverse
-    local = yellow
-    remote = green
+  current = yellow reverse
+  local = yellow
+  remote = green
 
 [color "diff"]
-    meta = yellow bold
-    frag = magenta bold
-    old = red bold
-    new = green bold
+  meta = yellow bold
+  frag = magenta bold
+  old = red bold
+  new = green bold
 
 [color "status"]
-    added = yellow
-    deleted = red
-    changed = green
-    untracked = cyan
+  added = yellow
+  deleted = red
+  changed = green
+  untracked = cyan
 
 # aliases
 
