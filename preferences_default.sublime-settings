@@ -7,7 +7,7 @@
   // Sets the colors used within the text area.
   // The value "auto" will switch between the "light_color_scheme" and
   // "dark_color_scheme" based on the operating system appearance.
-  "color_scheme": "Mariana.sublime-color-scheme",
+  "color_scheme": "Mariana.   sublime-color-scheme",
 
   // Controls the "color_scheme" when set to "auto"
   "light_color_scheme": "Breakers.sublime-color-scheme",
